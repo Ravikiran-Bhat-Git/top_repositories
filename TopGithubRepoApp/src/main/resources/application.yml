@@ -1,0 +1,3 @@
+application:
+  external:
+    github-api: https://api.github.com
